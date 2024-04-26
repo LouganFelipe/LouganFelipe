@@ -10,4 +10,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 00001110819729sp@al.educacao.sp.gov.br
 
-![cool-fun](https://github.com/LouganFelipe/estudantealurastart/assets/168192905/04432b2b-406d-4588-a29b-5fdac7842c1f)
+![cool-fun](https://github.com/LouganFelipe/LouganFelipe/assets/168192905/b6b92c60-4342-4bd2-84ca-52d1efcbcd5c)
