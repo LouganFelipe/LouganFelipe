@@ -1,16 +1,13 @@
-### Hi there 👋
+**Boas vindas ao meu perfil** 💙💙
 
-<!--
-**LouganFelipe/LouganFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lougan Felipe
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Você pode entrar em contato comigo** 📫
+
+00001110819729sp@al.educacao.sp.gov.br
+
+![cool-fun](https://github.com/LouganFelipe/estudantealurastart/assets/168192905/04432b2b-406d-4588-a29b-5fdac7842c1f)
